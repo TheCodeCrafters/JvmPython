@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+}
+
+group = maven_group
+version = version
+archivesBaseName = archives_base_name
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}
